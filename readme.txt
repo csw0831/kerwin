@@ -4,8 +4,5 @@ You underfind
 
 You are my son
 
-Creating a new branch is quick.
 
-Creating a new branch is quick & simple.
-Creating a new branch is quick & simple.
-Creating a new branch is quick & simple.
+CCreating a new branch is quick AND simple.
